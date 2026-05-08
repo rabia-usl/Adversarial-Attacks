@@ -1,0 +1,15 @@
+## Model Dosyaları
+results/models/
+*.pth
+*.pt
+
+## Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+## MAC
+.DS_Store
+
+## Veri Seti
+data/
